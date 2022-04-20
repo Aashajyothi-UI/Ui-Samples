@@ -1,1 +1,1 @@
-<?php include_once("registrater.html")?>
+<?php include_once("register.html")?>
